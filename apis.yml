@@ -1,0 +1,63 @@
+aid: figure-robotics
+name: Figure
+description: >-
+  Figure is a Sunnyvale, California humanoid robotics company building
+  general-purpose bipedal robots for the home and the workplace. Its current
+  flagship product is Figure 03, marketed as an everyday general-purpose
+  humanoid robot, succeeding Figure 01 and Figure 02. Figure develops Helix,
+  an in-house Vision-Language-Action (VLA) model that unifies perception,
+  language understanding, and learned control to drive a full upper humanoid
+  body at 35 degrees of freedom and 200 Hz, with capabilities including
+  novel-object manipulation from natural-language commands and multi-robot
+  task coordination. Figure has run commercial pilots with partners such as
+  BMW and previously collaborated with OpenAI on language models. The
+  company's revenue model is robot sales/leasing and enterprise deployments;
+  Helix is a proprietary on-board model and there is no public developer
+  API, SDK, or open-source release for Figure or Helix.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Robotics
+  - Humanoid Robots
+  - General-Purpose Robots
+  - Embodied AI
+  - Vision Language Action
+  - Foundation Models
+  - Helix
+  - Figure 03
+  - Manufacturing
+  - Home Robotics
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/figure-robotics/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.figure.ai
+  - type: Product
+    url: https://www.figure.ai/figure-03
+  - type: Helix
+    url: https://www.figure.ai/helix
+  - type: MasterPlan
+    url: https://www.figure.ai/master-plan
+  - type: Company
+    url: https://www.figure.ai/company
+  - type: Newsroom
+    url: https://www.figure.ai/news
+  - type: Careers
+    url: https://www.figure.ai/careers
+  - type: Contact
+    url: https://www.figure.ai/contact
+  - type: Twitter
+    url: https://twitter.com/figure_robot
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/figureai
+  - type: YouTube
+    url: https://www.youtube.com/@figureai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
