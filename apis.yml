@@ -36,6 +36,8 @@ modified: '2026-05-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/figure-robotics-domain-security.yml
   - type: Website
     url: https://www.figure.ai
   - type: Product
