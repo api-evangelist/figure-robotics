@@ -15,6 +15,17 @@ description: >-
   Helix is a proprietary on-board model and there is no public developer
   API, SDK, or open-source release for Figure or Helix.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
