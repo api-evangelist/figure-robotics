@@ -1,4 +1,4 @@
-# figure-robotics
+# Figure
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Figure — general-purpose humanoid robots (Figure 01/02)
+Figure is a Sunnyvale, California humanoid robotics company building general-purpose bipedal robots for the home and the workplace. Its current flagship product is Figure 03, marketed as an everyday general-purpose humanoid robot, succeeding Figure 01 and Figure 02. Figure develops Helix, an in-house Vision-Language-Action (VLA) model that unifies perception, language understanding, and learned control to drive a full upper humanoid body at 35 degrees of freedom and 200 Hz, with capabilities including novel-object manipulation from natural-language commands and multi-robot task coordination. Figure has run commercial pilots with partners such as BMW and previously collaborated with OpenAI on language models. The company's revenue model is robot sales/leasing and enterprise deployments; Helix is a proprietary on-board model and there is no public developer API, SDK, or open-source release for Figure or Helix.
+
+**Areas:** Robotics · Humanoid Robots · General-Purpose Robots · Embodied AI · Vision Language Action · Foundation Models · Helix · Figure 03 · Manufacturing · Home Robotics · Hardware
+
+## Figure on APIs.io
+
+Everything profiled for Figure is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/figure-robotics/](https://apis.io/providers/figure-robotics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Figure Robotics Domain Security](https://apis.io/security/figure-robotics/figure-robotics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.figure.ai)
+
+## API Evangelist rating
+
+**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/figure-robotics/](https://apis.io/providers/figure-robotics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Figure: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/figure-robotics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
